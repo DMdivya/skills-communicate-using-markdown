@@ -10,3 +10,6 @@ $ git init
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Like
+- [ ] share
+- [ ] subscribe
